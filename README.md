@@ -1,1 +1,1 @@
-# ethercat-manipulator
+# EtherCAT base 6DOF Manipulator
